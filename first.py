@@ -931,7 +931,7 @@ except:
        
        load_products_with_images()
 
-    # img0 = img1 = img2 = None
+    # img0 = img1 = img2 = None a
 def refresh_products():
     """🔄 تحديث قائمة المنتجات في واجهة البيع"""
     for widget in sa.winfo_children():
